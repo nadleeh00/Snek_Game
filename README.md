@@ -1,2 +1,2 @@
 # Snek_Game
-Created with CodeSandbox
+I wanted to make a game that moves, in React
